@@ -9,5 +9,5 @@
 
 ## 年度统计
 
-![my github info](https://github-readme-stats.vercel.app/api?username=longyanjiang&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=onedark&locale=cn&custom_title=小周的github统计)
-![my github info](https://github-readme-stats.vercel.app/api/top-langs/?username=longyanjiang&hide_border=true&theme=onedark&layout=compact&locale=cn&custom_title=小周常用的语言)
+![my github info](https://github-readme-stats.vercel.app/api?username=zhouzhou485g&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&theme=onedark&locale=cn&custom_title=小周的github统计)
+![my github info](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouzhou485&hide_border=true&theme=onedark&layout=compact&locale=cn&custom_title=小周常用的语言)
